@@ -1,0 +1,21 @@
+{
+  "name": "motion-sensor-led",
+  "authors": [
+    "bathtimefish <muraoka@bathtimefish.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webgpio": "webgpio-polyfill#^0.3.0",
+    "task.js": "*"
+  }
+}

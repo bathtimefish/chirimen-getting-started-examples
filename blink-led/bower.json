@@ -1,0 +1,21 @@
+{
+  "name": "blink-led",
+  "authors": [
+    "bathtimefish <muraoka@bathtimefish.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "task.js": "*",
+    "webgpio": "webgpio-polyfill#^0.3.0"
+  }
+}
